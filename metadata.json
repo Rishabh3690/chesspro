@@ -1,0 +1,6 @@
+{
+  "name": "AI Chess Coach — The Chess Legends",
+  "description": "STEM exhibition AI Chess Coach featuring Stockfish live telemetry, Hinglish voice personalities, 30-second Mate-in-1 Puzzle Rush, and mobile QR challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
